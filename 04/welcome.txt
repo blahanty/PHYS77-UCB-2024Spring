@@ -1,0 +1,8 @@
+Welcome to Physics 77, Spring 2022
+Topics we will learn about include:
+Data types
+Loops
+Functions
+Arrays
+Plotting
+Statistics
